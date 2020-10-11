@@ -94,7 +94,5 @@ basic.forever(function () {
                 . . . . .
                 `)
         }
-    } else {
-    	
     }
 })
